@@ -1,0 +1,10 @@
+/* styles.css file */
+p {
+    color: green;
+}
+.tick {
+    font-size: 0px;
+    opacity: 1;
+    fill: #000;
+}
+/* Add more selectors and styles as needed */
